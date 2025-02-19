@@ -1,7 +1,10 @@
 # Folders
-.idea
-out
-git-demo.iml
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
 
 
 # Compiled class file
